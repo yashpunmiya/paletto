@@ -1,4 +1,4 @@
-# Paletto - Art Selling Website
+# Paletto (Availble for desktop,phone,tablet)
 
 Welcome to Paletto, the ultimate destination for art enthusiasts and collectors. Paletto is an online art selling website that offers a diverse and massive collection of artworks, providing a seamless user experience for both buyers and artists. This README will guide you through the essential aspects of Paletto, helping you understand its features and how to contribute to the project.
 
